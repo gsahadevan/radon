@@ -1,0 +1,10 @@
+.cache
+.vscode
+package.json
+package-lock.json
+public
+static
+node_modules
+*/*/lib
+*/*/build
+*/*/dist
